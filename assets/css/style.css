@@ -30,7 +30,7 @@ div.fixedheading {
     padding: 20px;
     margin-top: 30px;
     height: 960px;
-    background-image: url('../images/crossline-lines.png')
+    background-color: #ffffff;
 }
 
 .img1 {
@@ -43,6 +43,7 @@ div.fixedheading {
 }
 
 body {
+    background-image: url('../images/crossline-lines.png');
     width: 960px;
     margin: 0 auto;
     font-family: Arial, Helvetica, sans-serif;
